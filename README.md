@@ -1,14 +1,22 @@
 # Login-Page
 
 ## Table of Contents
-
 1. [Overview](#Overview)
 2. [Features](#Features)
-3. [Technologies Used](#Technologies-Used)
-4. [How to Use](#How-to-Use)
-5. [Project Struture](#Project-Struture)
-6. [Credits](#Credits)
-7. [Image Visual](#Image-Visual)
+    - Create Account
+    - Social Login
+    - Responsive Design
+4. [Technologies Used](#Technologies-Used)
+    - HTML
+    - CSS
+    - JavaScript
+6. [How to Use](#How-to-Use)
+7. [Project Struture](#Project-Struture)
+    - index.html
+    - style.css
+    - script.js
+9. [Credits](#Credits)
+10. [Image Visual](#Image-Visual)
 
 ## Overview
 This project is a simple login page developed using HTML, CSS, and JavaScript. It provides functionality for users to create a new account or sign in using their existing credentials.
