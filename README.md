@@ -19,6 +19,7 @@
 10. [Image Visual](#Image-Visual)
 
 ## Overview
+
 This project is a simple login page developed using HTML, CSS, and JavaScript. It provides functionality for users to create a new account or sign in using their existing credentials.
 
 ## Features
@@ -43,7 +44,7 @@ This project is a simple login page developed using HTML, CSS, and JavaScript. I
 ## Project Structure
 
 - index.html: Contains the HTML markup for the login page layout and structure.
-- style.css: Defines the styles and layout for the login page using CSS.
+- style.css: Defines the styles, the use of CSS Flexbox, CSS Keyframes, CSS Transition for animations and layout for the login page using CSS.
 - script.js: Implements interactivity and functionality using JavaScript, such as toggling between sign-up and sign-in forms.
 
 ## Credits
