@@ -45,4 +45,4 @@ This project is a simple login page developed using HTML, CSS, and JavaScript. I
 
 ## Image Visual
 
-<img src="Login-Page.png" width=200>
+<img src="Login-Page.png" width=600>
