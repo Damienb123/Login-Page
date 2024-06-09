@@ -16,7 +16,9 @@
     - style.css
     - script.js
 9. [Credits](#Credits)
-10. [Image Visual](#Image-Visual)
+10. [Vercel Deployment](#Vercel-Deployment)
+    - Accessing the deployed web application
+12. [Image Visual](#Image-Visual)
 
 ## Overview
 
@@ -51,6 +53,14 @@ This project is a simple login page developed using HTML, CSS, and JavaScript. I
 
 - Font Awesome: Used for the social media icons.
 - Google Fonts: Provides the Montserrat font used in the project.
+
+## vercel Deployment
+
+- Accessing the deployed web application
+
+![Vercel](https://vercel.com/button)[(https://login-page-nyuprc63b-damienb123s-projects.vercel.app/?#)](https://login-page-nyuprc63b-damienb123s-projects.vercel.app/?#)
+
+
 
 ## Image Visual
 
