@@ -54,7 +54,7 @@ This project is a simple login page developed using HTML, CSS, and JavaScript. I
 - Font Awesome: Used for the social media icons.
 - Google Fonts: Provides the Montserrat font used in the project.
 
-## vercel Deployment
+## Vercel Deployment
 
 - Accessing the deployed web application
 
