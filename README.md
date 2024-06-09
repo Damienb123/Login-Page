@@ -58,7 +58,8 @@ This project is a simple login page developed using HTML, CSS, and JavaScript. I
 
 - Accessing the deployed web application
 
-![Vercel](https://vercel.com/button)[(https://login-page-nyuprc63b-damienb123s-projects.vercel.app/?#)](https://login-page-nyuprc63b-damienb123s-projects.vercel.app/?#)
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)
+[(https://login-page-nyuprc63b-damienb123s-projects.vercel.app/?#)](https://login-page-nyuprc63b-damienb123s-projects.vercel.app/?#)
 
 
 
